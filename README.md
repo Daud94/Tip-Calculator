@@ -10,4 +10,4 @@ Each button has a fixed percentage to calculate the amount of tip from the cost 
 ![launch-screen](/screenshots/launch_screen.png)
 ## Screenshot After Theming
 The launch screen after styling and theming according to Material3 recommendations.
-![launch-screen-after-theming](/screenshots/launch_screen.png)
+![launch-screen-after-theming](screenshots/launch_screen_after_theming.png)
